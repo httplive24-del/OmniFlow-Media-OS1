@@ -1,0 +1,6 @@
+{
+  "name": "OmniFlow Media OS",
+  "description": "Autonomous Media Operating System for zero-click content ingestion, multimodal AI video synthesis, platform-native tailoring, compliance auditing, and self-learning analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
